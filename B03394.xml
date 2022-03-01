@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short testimony concerning Catherine Allardes, late wife to Iohn Fullertoune of Kinnebar who departed this life, the last day of the last moneth called February, anno 1670.</title>
+            <author>Fullerton, John, of Kinnebar, fl. 1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03394</idno>
+            <idno type="STC">Wing F2494</idno>
+            <idno type="STC">ESTC R177344</idno>
+            <idno type="EEBO-CITATION">53981655</idno>
+            <idno type="OCLC">ocm 53981655</idno>
+            <idno type="VID">180232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180232)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2821:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short testimony concerning Catherine Allardes, late wife to Iohn Fullertoune of Kinnebar who departed this life, the last day of the last moneth called February, anno 1670.</title>
+                  <author>Fullerton, John, of Kinnebar, fl. 1671.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>John Forbes the younger],</publisher>
+                  <pubPlace>[Aberdeen :</pubPlace>
+                  <date>Printed anno 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Signed at end: Iohn Fullertoun.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allardes, Catherine, d. 1670.</term>
+               <term>Christian women --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180232:1" rendition="simple:additions"/>
+            <p>A Short Teſtimony concerning <hi>CATHERINE ALLARDES,</hi> Late Wife to <hi>IOHN FVLLERTOVNE</hi> of KINNEBAR: Who departed this Life, the laſt day of the laſt Moneth called <hi>February; Anno.</hi> 1670.</p>
+            <q>
+               <bibl>Pſalm 37. verſe, 37.</bibl> 
+               <p>Mark the perfect man, and behold the upright: for the end of that man is peace.</p>
+            </q>
+            <q>
+               <bibl>Pſalm 116. v. 15.</bibl> 
+               <p>Precious in the ſight of the Lord, is the death of the Saints.</p>
+            </q>
+            <q>
+               <bibl>Rev. 14. v. 13.</bibl> 
+               <p>Bleſſed are the dead which die in the Lord from henceforth, yea ſaith the Spirit, that they may reſt from their la<g ref="char:EOLhyphen"/>bours, and their works do follow them.</p>
+            </q>
+            <p>Printed Anno. 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180232:2"/>
+            <pb facs="tcp:180232:2"/>
+            <head>A short teſtimony concerning <hi>Kathe<g ref="char:EOLhyphen"/>rine Allardes,</hi> late wife to <hi>Iohn Fulertoune</hi> of <hi>Kinneber,</hi> who departed this life, the laſt day of the laſt Moneth called <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> 1670.</head>
+            <p>SHE was a woman of extraordinary patience, and meeknes, and of few words that having been near 23. years married with her, I cannot ſay, that ever I ſaw her angrie, though ſhe could and did correct her chil<g ref="char:EOLhyphen"/>dren, and keept them in as much avve as most, and did re<g ref="char:EOLhyphen"/>prove undutiful ſervants or others very plainly and down<g ref="char:EOLhyphen"/>right: and yet without haſtie raſh words, for never in her life can any ſay that they have known her to take the name of God in vaine, or let fall from her any of the (ſo reco<g ref="char:EOLhyphen"/>kened) pettie oaths; she hade alwayes water in readineſſe to caſt upon the breaking forth of any appearance of fire in any perſon. After our Marriage, once or twice I came upon her in the fieldes, when her eyes were ſtreaming forth teares at prayer, and I beeing earneſt to know what weighted her ſpirit, if it was diſſatisfaction of her marriage,
+<pb facs="tcp:180232:3"/>
+after much preſsing, she at length told me it was not any thing of that, but ſhe was grieved (for that ſhe often te<g ref="char:EOLhyphen"/>ſtified againſt) that I should comply ſo much with the prophane drunken neighbours, and others that frequented my houſe, and if I continued that way of entertaining them, the Lord would depart from our familie, which words; though I made little anſvvere unto them, then they were as bread caſt upon the waters. She was alſo very extraordinary diligent in her calling and employment, as is well known to all about her, and had the care and ac<g ref="char:EOLhyphen"/>counts of all my corns and rents, and when I was often diſ<g ref="char:EOLhyphen"/>ſatisfied that ſhe her ſelf did ſpin, and handle yarne ſo much, ſhe would anſwer, ſhe had not peace in her minde to be unimployed in ſome honeſt neceſſarie work, and would tell me, if the Lord permit the enemies of the truth to take our eſtate from us, or baniſh us therefrom, for con<g ref="char:EOLhyphen"/>ſcience ſake, I can, ſaid ſhe, through the Lords aſsiſtance, mantain thee and my children in a comfortable way; And ſhe often ſaid, I am wholly out of covetouſneſſe, anxiety, or fear of want, knowing that I have a good and loving Proviſor who never failed me. I often would ſpeak of our many children, and what I ſhould do with them; her ordinary anſwer was, if they fear the Lord they have e<g ref="char:EOLhyphen"/>nough, and we have enough of the things of this life to leave amongſt them: if they fear not the Lord, there is too much to give them, I am willing they ſuffer for their folly. Some years ago my eſtate being very much run under debts, ſo that in the reckoning of all it was ruined, and all
+<pb facs="tcp:180232:3"/>
+our relations gave us advice to ſell it, and ſave ſomething of the price; and theſe who were filled with malice and the ſpirit of perſecution againſt us, (becauſe we denyed their way to be of God, and would not longer eat of their polluted Sacrifices, being about 13. years agoe) they tri<g ref="char:EOLhyphen"/>umphed and inſulted over our hard condition; when they heard of my creditors beginning their work againſt me and our eſtate, their words were, we ſee God bringing him down, and going to ſpew him out of the land, for it was reckoned I was going to Ireland, (as I did conclude to do) which words wounded me as arrows, not for my eſtate I can ſay, but becauſe they who are now brought down, would get ſuch advantage againſt the precious truth, be<g ref="char:EOLhyphen"/>cauſe of which I being much brocken in my ſpirit, for many weeks I was not wholly ſatisfied that ſhe was not as much touched: She told me, ſhe was little moved with that apa<g ref="char:EOLhyphen"/>rent change at all. After ſome days the Lord in condeſcen<g ref="char:EOLhyphen"/>dence to my weakneſs, was pleaſed to ſhow me in a very plain, clear viſion, that my eſtate and houſe near faine ſhould be recovered, which <hi>I</hi> not believing, within twen<g ref="char:EOLhyphen"/>ty foure houres thereafter, he dowbled the viſion againe; and ſhew me the way how it ſhould come to paſs (which is not fit here to mention, leſt ſwine ſhould tear and mock) the which I did then tell her, ſhe told me, ſhe was alwayes confident the Lord would do that for us, or elſe that which was as good. And after ſome years when a change began to appear on our outward condition, and that it was told, that ſome witleſs idle talking people ſaid, we had
+<pb facs="tcp:180232:4"/>
+gotten money ſent us from another place, ſhe would an<g ref="char:EOLhyphen"/>ſwer that it is little matter what they ſay, for they know not him who is Lord of all, who hath ſeen it meet to bleſs now when men hath curſed, <hi>(But Balaam cannot curſe Iſrael,)</hi> but we never received money from others, except ſuch as were due to us, for fair barganing, &amp;c. Nor never could we, ſaid ſhe, ſo long as we had of our own to furniſh us food and rayment, or could help our ſelves by labour, and much have we given, but never yet received on any ſuch account, knowing it is better to give then to receive. She loved ſuch of the <hi>Preſbyterians</hi> as was of a ſober, ſerious, converſation: and for their zeal for curbing of wickedneſs among the people, and there making ſome difference be<g ref="char:EOLhyphen"/>twixt the Precious and the Vile; but ſhe had a great con<g ref="char:EOLhyphen"/>trariety to their ſpirit of perſecution, and concluded if ever they got the fleſh they ſo much luſt after, viz. power; it would be for a further ſtroake, and bitter cup, except the Lord redeemed them from that ſpirit of rigidity, bitter<g ref="char:EOLhyphen"/>neſs, and perſecution of tender conſciences. She loved that little more moderation which appears in Epiſcopals, but hated the looſe ungodly lives of moſt of them, and be<g ref="char:EOLhyphen"/>lieved the Lord would in his due time meet with them be<g ref="char:EOLhyphen"/>cauſe of their conniving at, or not curbing this flood of ini<g ref="char:EOLhyphen"/>quitie broke forth in the Nation under that government.</p>
+            <p>She was one who was more then ordinary acquanted with, and had the ſecrets of the Lord revealed to her, which I can truely witneſs, though its like I ſhal be but little be<g ref="char:EOLhyphen"/>lieved by the benighted world. I might name more nor
+<pb facs="tcp:180232:4"/>
+now I ſhall, but a little touch I have freedome to give, When about 11. years ſince, he, called <hi>Mr. Thomas Cowper</hi> Miniſter at <hi>Montroſe,</hi> had excommunicatted me after the ſpace of ſome moneths; one morning on the firſt day of the week, (called the Sabbath) ſhe and I approaching to waſh our hands, ſhe ſaid, the Lord hath let me ſee that <hi>Thomas Cowper</hi> is laid by uſeleſs, and is to preach no more. Which was to me ſomething ſtrange, to hear her ſo poſi<g ref="char:EOLhyphen"/>tive as was not her ordinarie, I ſaid, it is very much if it be ſo ſudden: ſhe ſaid, it is to be even ſo. And that day in the evening, there came one and told that <hi>Thomas Cowper</hi> going in to the Kirk to preach, was at the Kirk door ſtruck with a diſtemper, and was carried back to his houſe, out of which he never came againe with life, though he lived long after: And I may ſay, the man went about that work with great reluctancie and unwillingneſs againſt the light, not being ſo wholly given up as many of them now are, to hardneſſe of heart, ſpite and enmity. For one day he and I walking in my garden, he ſaid, I know its Reformation ye would be at, will ye ſtay among us to help us forward therewith: I anſwered, there <hi>was no ſtay in Babylon that was become the hold of every foule ſpirit,</hi> he ſaid, is there none elſe there in that ye call Babylon; I anſwered, its like there is, but they ſhould not ſtay there, nor was it to be expected that that few were able to carry on a Reformation, while among them, then he beſought that either I or my wife would give him warrand to ſeek a delay of that ſentance, ſeeing he had ſought it ſo often, and now they diſtruſted
+<pb facs="tcp:180232:5"/>
+him; ſhe and <hi>I</hi> denyed to give him warrand to ſeek one houre, and then he cryed out (with teares falling from his eyes) alace for evermore, that ye will not grant me that re<g ref="char:EOLhyphen"/>queſt. And ſo the next day, did caſt me out, who was not in their Church. And ſome years after, being about ſeven yeares ſince, this preſent Preacher at Montroſe having ex<g ref="char:EOLhyphen"/>communicate my wife, the which after ſeven dayes was told her, ſhe ſaid, it was ſtrange the man would ſhew ſo much malice and ignorance to curſe her, that for any thing ſhe knew, he never ſaw, and was ſure he never ſpoke with her, nor knew never her principles nor practiſes, except it were what he had gathered from lying ſlanders, but ſaid ſhe if we follow that that is good what can harme us; and it is our place to watch that we may be keept holy and harm leſs in our Generation, not having an evil eye againſt that Generation who muſt be doing their work in this Age, as in former Ages againſt the Saints.</p>
+            <p>I may alſo mention that about 5. or 6. yeares ſince, two of my Salmond-Fiſhers agreed to bring in to me lyme<g ref="char:EOLhyphen"/>ſtone, for ſo much the Boat full; (I then having building in hand, the lyme-ſtone about two or three mile off along the Sea-ſhore,) and one evening after their paſſing out of the water, there aroſe a mighty tempeſt of a North-wind, that they could get no ſhore, but gave up themſelves for death, their oars being moſtly waſhen from them, and their ſaill beat down: The next day they told me that two of my men were loſt, which weighted me verie ſore, and the ra<g ref="char:EOLhyphen"/>ther becauſe one of them was a Fellow-ſufferer with me
+<pb facs="tcp:180232:5"/>
+for conſcience ſake, and the other was an extraordinarie vitious perſon. While I was in this grief for them, my wife having been ſick of a long time, and I ſitting by her, the third day after their way-going, ſhe told me the two men were ſafe and alive, and that the wicked perſon whom ſhe named, was preſerved for the ſake of the other, and not only ſo, but the friend of truth was ſet ſafe on the rock, and the other was drowned in the water, but was drawn out again and ſaved by the friend, which was truely ſo; for their came word ſome dayes after, that after the midle of the night the boat came in among the mighty waves of broken water at <hi>Fife-neſs,</hi> and one ſwell carried the boat upon the top of an high rock, where ſhe ſet her bottom, be<g ref="char:EOLhyphen"/>ing fallen out, the friend looked and found the boat faſt, and ſtopt upon the rock and ſtood, the other began alſo to come out, and the waves plucked him over the rock, the friend looked for him (being Moon-light) and ſeeing him not, only ſaw a bonnet floating on the water, and having a tree in his hand, he reached the tree to the bonnet on the water, the other under the water ſtriving with death, gat hold of the ſtaff and held faſt as any do in ſuch condition, the friend not knowing what it was, drew and he came up; and was ſaved to the admiration of many in that countery to this day, how they were ſaved: and he called Laird of <hi>Kin-kell Hamiltoune</hi> furniſhed them with money; after a day or two ſent them home. The prophane perſon after that he began to abſtaine from ſome of his wicked wayes, and be more ſerious, ſo that his relations cauſed draw
+<pb facs="tcp:180232:6"/>
+blood of him, as a mad-man, all which I concerned not my ſelf into, knowing that his phyſick behoved to come from another, and after ſome time, I found it expedient to adviſe him to begin to walk in the good old way, the light, in which he would find reſt for his ſoul, and as therein he was found faithful, he would come to know refreſhment from the preſence of the Lord: Which he liſtned to, and grew more and more clear in his judgement, and ſince hath born a meaſure of teſtimony for the truth both in words and converſation.</p>
+            <p>Other things I might mention which is not fit here, that my dear Wife had revealed to her of the Lord. But now I ſhal touch of her carriage before her departur hence! A<g ref="char:EOLhyphen"/>bout eight moneths ſince, ſhe told me, it was ſhowen her that ſhe was married to another, ſhe having gotten a new Name and a white-ſtone, and all clade in white linnen, the which, when told me was a wound to my heart; for I con<g ref="char:EOLhyphen"/>cluded, ſhe was to be taken from me, and joyned more near to the Lamb, yet I often cryed to the Lord (that if it was his will) that bitter cup might depart from me, not know<g ref="char:EOLhyphen"/>ing, but that he might be entreated to ſpare her a little then ſhe began to grow ſickly and ſix or ſeven weeks ago her ſickneſs encreaſed much, that was known ſhe was in a drop<g ref="char:EOLhyphen"/>ſie; about twenty dayes ſince ſhe was brought to bed of a child, (pretty eaſily conſidering her condtition) then I began to have ſome hopes, the Lord had granted my ſup<g ref="char:EOLhyphen"/>plication; About a week after her delivery ſhe began to be worſe in her body, and about ſix or ſeven dayes before
+<pb facs="tcp:180232:6"/>
+her removal, one day ſobbing very ſore, ſhe told me, that the enemie of her ſoul was aſſaulting her very ſtrongly to doubt of Gods love to her, and telling her, that ſhe had been too much in the incumbrances of the world and that ſhe had been too little devouted for Heaven, and that ſhe was not yet waſhen clean in the Blood of the Lamb; but that there ſtuck ſome of the earth to her, by her too much looking at me and her children. And ſhe deſired me to cry to the Lord for her, that the Son of righteouſneſs would ex<g ref="char:EOLhyphen"/>pel that cloud, and beat back the enemy. And after ſome words I had to her, I found that rock, that alwayes in the wilderneſs followes and gives my thriſty Soul drink, then aſſiſting me to pray before her bed, after which, ſhe ſaid, ſhe had met with refreſhment; about evening I enquired if the enemy continued yet his aſſaults, ſhe ſaid nay, the bat<g ref="char:EOLhyphen"/>tel was ended, and ſhe had the peace and love of GOD running down on her Soul as a mighty river: And after that, dayly comforted and ſtrengthened me, exhorting me not to mourne for her, and when I would be ſitting by her at ſometimes, when ſome few of us uſed to meet together in the Family, ſhe would warne me not to neglect the occa<g ref="char:EOLhyphen"/>ſion of waiting on the Lord; and of meeting together and edifying one another. And ſaid ſhe, thou haſt more reaſon then thouſands to be zealous for the Lord, ſeeing he hath done for thee beyond what he hath done for thouſands, not can thou ſay that ever he failed thee in the time of thy need, and he will not faill to be a help to thee and thy children in my room. The time of her ſickneſs was really a conſtant
+<pb facs="tcp:180232:7"/>
+praying time unto her, and exhorting to the fear of God; ſhe ſaid to her ſiſter, I can ſay, ſince ever I knew the truth I never wittingly diſobeyed the LORD. Two dayes be<g ref="char:EOLhyphen"/>fore ſhe departed, ſhe ſaid to me, ſome had been the day letting fall, that our friends did not pray in the Name of Ie<g ref="char:EOLhyphen"/>ſus, which ſhe could not receive nor owne, and enquired me if I knew any ſuch, I told her, I knew none ſuch, nor would I owne ſuch, for the Scripture bids ask in the Name of Ieſus, as <hi>Iohn</hi> hath it <hi>chap.</hi> 14.13. and <hi>chap.</hi> 16.24. <hi>And there was no acceptance but in the Name of Ieſus.</hi> The night ſhe departed, being the laſt of the twelfth Moneth, <hi>I</hi> deſired her that after her ſpeach failled (while life continued) ſhe would let it appear, her mind was fixed on the Lord by lift<g ref="char:EOLhyphen"/>ing up her hands, which ſhe did almoſt conſtantly, for a<g ref="char:EOLhyphen"/>bout two houres till her breath failled, during which time, her Siſter ſpeaking to me, ſaid, what comfort would ſhe now take of all the Kingdoms of the world if offered her; ſhe anſwered againe (ſo as with ſome difficulty it was heard by my laying my ear to her mouth,) the Lords precious truth is the ſweeteſt thing that ever ſhe knew, and a while after ſhe ſaid, bleſſed be the day that ever <hi>I</hi> knew it, repeat<g ref="char:EOLhyphen"/>ing twice over. Then I ſaid to her ſiſter, <hi>I</hi> believe clouds are far from her now, ſhe anſwered, away with clouds, clouds are far from me. Therafter we could diſcern her lips moving, to take up this words often uttered, LORD IE<g ref="char:EOLhyphen"/>SUS. After ſpeach failled, ſhe beckned to each child at home to come to her and having lift up her eyes and hands Heaven-wards, ſhe laid them on their heads and bleſſed
+<pb facs="tcp:180232:7"/>
+them. Then I riſing to ſtand a little in the floor, in a little ſpace ſhe miſſing me, looked after me, and ſaid, Dear, and haſtily I drawing to her, breath was comming off, and ſhe moved no more. Which was about the 12. houre at night, of the laſt day of the Moneth called <hi>February,</hi> 1670. and about the 40. year of her Age.</p>
+            <p>The next day there came one that ſhe dearly loved, that came ſeveral times to her in her ſickneſs, viz. <hi>Arthur Stra<g ref="char:EOLhyphen"/>ton of Kirkſide</hi> his Wife; who was deſirous to ſee her and lay her hand on her, the which when ſhe had, ſhe ſaid her face appeared to her as the face of an Angel: that ſhe never ſaw a<g ref="char:EOLhyphen"/>ny thing whiter, and had a red on her cheeks, as it ſeemed at a diſtance, and others teſtifie her beautie was wonderful to be ſeen on a dead body.</p>
+            <p>She was generally beloved of high and low in this part of the Nation, which more appeared in her ſickneſs by ſo many comming and ſending to ſee how ſhe was, even ſome who had never ſeen her face, and by the general ſound of the multitude at the grave ſide, who ſounded, ſuch another woman they never knew, and ſuch a Lady was there ne<g ref="char:EOLhyphen"/>ver before in <hi>Kinnaber,</hi> nor likely would never be againe, for none upon earth can ſay they knew a ſpot in her conver<g ref="char:EOLhyphen"/>ſation.</p>
+            <p>This I write not for exalting the creature, and drawing honour thereunto, but that the Lord may have the glory of his work wrought in her, for to him is only due all glory, honour, and praiſe, let all who have the breath of the Hea<g ref="char:EOLhyphen"/>venly life, exalt the Lord, and abaſe ſelf making it of no
+<pb facs="tcp:180232:8"/>
+reputation, even ſo Lord, let this be thy work on me, and thine own work ſhal praiſe thee.</p>
+            <closer>
+               <signed>IOHN FULLERTOUN,</signed>
+               <dateline>Kinnebar
+<date>the 9. of the first Moneth, called March. 1671.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:180232:8"/>
+            <pb facs="tcp:180232:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
